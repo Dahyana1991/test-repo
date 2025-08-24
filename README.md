@@ -1,3 +1,1 @@
-este es mi primer repo y es mi primer cambio
-
-cambio
+este es un cambio en mi rama personal
